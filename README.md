@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif"  height="200" width="250"/>
 </div>
 <h1 align="center">Hi!🙋🏻‍♀️ I'm Mahsa Zamanifard</h1>
 <h3 align="center">I'm a data enthusiast with Biomedical Engineering (Bioelectric) background.</h3>
