@@ -4,7 +4,7 @@
 <h1 align="center">Hi!🙋🏻‍♀️ I'm Mahsa</h1>
 <h3 align="center">I'm a data enthusiast with Biomedical Engineering (Bioelectric) background</h3>
 
-- 📚 I’ve been doing different projects and learning about **Data Analysis, Machine Learning and Deep Learning** for about a year and I want to learn more!
+📚 I’ve been doing different projects and learning about **Data Analysis, Machine Learning and Deep Learning** for about a year and I want to learn more!
 
 <h3 align="left"><i>You can connect with me on:</i></h3>
 <p align="left">
