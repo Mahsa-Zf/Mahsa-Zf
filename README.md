@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg"  height="200" width="700"/>
 </div>
-<h1 align="center">Hi!🙋🏻‍♀️ I'm Mahsa Zamanifard</h1>
+<h1 align="center">Hi!🙋🏻‍♀️ I'm Mahsa</h1>
 <h3 align="center">I'm a data enthusiast with Biomedical Engineering (Bioelectric) background.</h3>
 
 - 📚 I’ve been doing different projects and learning about **Data Analysis, Machine Learning and Deep Learning** for about a year and I want to learn more!
