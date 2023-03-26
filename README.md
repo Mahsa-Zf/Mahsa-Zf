@@ -9,7 +9,7 @@
 🩺 I specifically like working with health related data and extracting insights from them.
 
 
-<h3 align="left"><i>You can connect with me on:</i></h3>
+<h3 align="left"><i>You can contact me on:</i></h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahsa-zamanifard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahsa-zamanifard" height="20" width="20" /></a>
 <a href="https://kaggle.com/mahsazamanifard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahsazamanifard" height="20" width="20" /></a>
