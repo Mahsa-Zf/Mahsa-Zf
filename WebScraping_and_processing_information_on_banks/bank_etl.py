@@ -22,7 +22,7 @@ cv_path='./Largest_banks_data.csv'
 db_name= 'Banks'
 table_name='Largest_banks'
 
-# Code for ETL operations on Country-GDP data
+# Define a log_progress function
 def log_progress(message):
     ''' This function logs the mentioned message of a given stage of the
     code execution to a log file. Function returns nothing'''
@@ -34,6 +34,7 @@ def log_progress(message):
 
 log_progress('Preliminaries complete. Initiating ETL process')
 
+# Define an extract function for webscraping
 def extract(url, table_attribs):
     ''' This function aims to extract the required
     information from the website and save it to a data frame. The
@@ -58,8 +59,7 @@ df
 
 log_progress('Data extraction complete. Initiating Transformation process')
 
-"""Transform the dataframe by adding columns for Market Capitalization in GBP, EUR and INR, rounded to 2 decimal places, based on the exchange rate information shared as a CSV file."""
-
+# Transforming the scraped data to add other currencies
 def transform(df, csv_path):
     ''' This function accesses the CSV file for exchange rate
     information, and adds three columns to the data frame, each
@@ -76,6 +76,7 @@ def transform(df, csv_path):
 transform(df,'/content/exchange_rate.csv')
 log_progress('Data transformation complete. Initiating loading process')
 
+# Creating a CSV file
 def load_to_csv(df, output_path):
     ''' This function saves the final data frame as a CSV file in
     the provided path. Function returns nothing.'''
@@ -84,6 +85,7 @@ def load_to_csv(df, output_path):
 load_to_csv(df, cv_path)
 log_progress('Data saved to CSV file')
 
+# Loading the table to a database
 def load_to_db(df, sql_connection, table_name):
     ''' This function saves the final data frame to a database
     table with the provided name. Function returns nothing.'''
@@ -93,6 +95,7 @@ sql_connection=sqlite3.connect(db_name)
 load_to_db(df, sql_connection, table_name)
 log_progress('Data saved to database')
 
+# Running a query on the created table
 def run_query(query_statement, sql_connection):
     ''' This function runs the query on the database table and
     prints the output on the terminal. Function returns nothing. '''
