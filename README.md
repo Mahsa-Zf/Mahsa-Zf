@@ -2,11 +2,11 @@
   <img src="https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg"  height="200" width="700"/>
 </div>
 <h1 align="center">Hi!🙋🏻‍♀️ I'm Mahsa</h1>
-<h3 align="center">I'm a data enthusiast with Biomedical Engineering (Bioelectric) background</h3>
+<h3 align="center">I'm a data analyst interested in data engineering.</h3>
 
-📚 I’ve been doing different projects and learning about **Data Analysis, Machine Learning and Deep Learning** for about a year and I want to learn more!
+📚 My background is in data analysis, visualization, and statistical modeling. Over the past few years, I have honed my skills in transforming raw data into actionable insights, contributing to informed decision-making processes.
 
-🩺 I specifically like working with health related data and extracting insights from them.
+👩🏻‍💻 I am excited about the opportunity to design, build, and maintain robust data infrastructure that supports advanced analytics and machine learning initiatives.
 
 
 <h3 align="left"><i>You can contact me on:</i></h3>
